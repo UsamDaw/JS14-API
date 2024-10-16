@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #fafafa;
+}
+
+
+main {
+    margin-top: 20px;
+}
+
+input {
+    padding: 10px;
+    width: 300px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+#resulta img {
+    margin-top: 10px;
+    width: 400px;
+    height: auto;
+}
+
+#menu-image {
+    width: 450px;
+    height: auto;
+}
