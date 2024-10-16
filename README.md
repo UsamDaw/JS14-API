@@ -8,12 +8,12 @@ Dette prosjektet er en enkel web applikasjon som henter og viser informasjon om 
 3. Karakterens navn og bilde vil bli vist hvis funnet. Hvis ikke, vil en feilmelding vises.
 
 
-### HTML elementer
+## HTML elementer
 fetchButton: Knappen som utløser henteoperasjonen.
 resultDiv: Div-en hvor den hentede karakterens informasjon vil bli vist.
 
 
-#### fetchData()
+#### Liten forklaring for fetchData()
 Denne funksjonen utløses når hente-knappen klikkes. Den utfører følgende trinn:
 1. Henter karakterens navn fra input-feltet.
 2. Sjekker om input-feltet ikke er tomt.
