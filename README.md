@@ -13,7 +13,7 @@ fetchButton: Knappen som utløser henteoperasjonen.
 resultDiv: Div-en hvor den hentede karakterens informasjon vil bli vist.
 
 
-#### Liten forklaring for fetchData()
+## Liten forklaring for fetchData()
 Denne funksjonen utløses når hente-knappen klikkes. Den utfører følgende trinn:
 1. Henter karakterens navn fra input-feltet.
 2. Sjekker om input-feltet ikke er tomt.
